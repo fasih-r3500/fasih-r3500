@@ -20,7 +20,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **an app for a client**<br><br>- 🌱 I’m currently learning **Scala**<br><br>- 👯 I’m looking to collaborate on **a Django website**<br><br>- 🤝 I’m looking for help with **landing an internship**<br><br>- 💬 Ask me about **Python**</p>
+- 🔭 I’m currently working on **an app for a client**  
+- 🌱 I’m currently learning **Scala**  
+- 👯 I’m looking to collaborate on **a Django website**  
+- 🤝 I’m looking for help with **landing an internship**  
+- 💬 Ask me about **Python**
 
 ###
 
