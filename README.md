@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Fasih</h1>
 
 ###
-
+<!-- Matrix gif & stats
 <img align="left" height="166" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdpN2h2MTUzem9qemZ3bnY3OThhOGhzYzNsOXVyNTdlZGwzc3J3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"  />
 
 ###
@@ -9,6 +9,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fasih-r3500&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
 </div>
+-->
 
 ###
 
